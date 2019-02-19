@@ -1,0 +1,8 @@
+Simulation System(Construct a simulation platform By Python manually):
+1. Time Slot(1 min?)
+2. Grid Separation(Longitude or Street Marker)
+3.
+
+Agent:
+1. State Space(still too much)
+2. 
